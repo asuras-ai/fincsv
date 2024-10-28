@@ -5,6 +5,9 @@ __pycache__/
 venv/
 .env
 
+# Archived Files
+archive/
+
 # Node
 node_modules/
 dist/
